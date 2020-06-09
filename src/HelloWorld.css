@@ -1,0 +1,65 @@
+
+
+
+.box{
+    width: 180px;
+    height: 250px;
+    padding: 0px;
+    box-shadow: 0px 0px 5px #666;
+    background-color: #FFF;
+    display: inline-block;
+}
+
+.list_card{
+    list-style: none;
+}
+
+li{
+    display: block;
+    margin-left: 50px;
+}
+h3{
+    text-align: center;
+}
+
+
+
+
+/*
+.container{
+    background-color: black;
+}
+
+.butt{
+    background-color: red;
+}
+.desc{
+    background-color: blue;
+}
+
+
+
+.container{
+    background-color: black;
+    height:100px;
+}
+.me + .butt{
+    color: red;
+    float: right;
+    display: inline-block;
+    background-color: none;
+    border: none;
+}
+button{
+    margin-top: 80px;
+}
+
+ .me{
+    color: brown;
+}
+
+.desc > .me{
+    color: white;
+    float: right;
+}
+*/

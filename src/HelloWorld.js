@@ -32,7 +32,7 @@ class HelloWorld extends Component{
 
                 {/* THIS IS INSIDE THE PARENT COMPONENT COMMENT */}
                 <br/>
-                <h3>Assignment from Nadeem Khan</h3>
+                <h3>Assignment from Nadeem Khan!</h3>
 
                 
             </div>
